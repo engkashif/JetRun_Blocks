@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5be68691f8aa570438a72c9957f121a7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - coin: {instanceID: 0}
+  - boost: {fileID: 6500263540957439071, guid: 136171e49ef3e0149b22ca85984de96f, type: 3}
+  - slower: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
